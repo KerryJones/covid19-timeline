@@ -17,6 +17,11 @@
 ## April 17, 2020
 - SF Mayor requires face masks publicly in indoor areas  
   https://sfmayor.org/article/san-francisco-issues-new-policy-face-coverings 
+- California testing suggests COVID-19 might be far more widespread, therefor less fatal
+  https://thehill.com/homenews/news/493391-california-antibody-testing-suggests-coronavirus-may-be-far-more-widespread
+- Trump announces $19B bailout for farmers  
+  https://www.bloomberg.com/news/articles/2020-04-17/trump-announces-19-billion-aid-package-for-farmers
+
 
 COVID-19 US growth rate: **85%**
 
@@ -29,14 +34,26 @@ COVID-19 US growth rate: **85%**
   https://www.nytimes.com/2020/04/16/us/politics/coronavirus-trump-guidelines.html
 - GoPro cuts 20% of workforce  
   https://www.bloomberg.com/news/articles/2020-04-15/gopro-cuts-more-than-20-of-workforce-changes-sales-strategy
+- US is capped at testing capacity creating artifical low growth, Harvard estimates 500-700k tests/day are necessary 
+  https://www.theatlantic.com/technology/archive/2020/04/us-coronavirus-outbreak-out-control-test-positivity-rate/610132/
+- Small business loan program runs out of money ahead of schedule  
+  https://www.cnbc.com/2020/04/16/small-business-rescue-loan-program-hits-349-billion-limit-and-is-now-out-of-money.html
+- Florida pays on only 5 percent of jobless claims  
+  https://www.politico.com/states/florida/story/2020/04/16/florida-pays-on-only-5-percent-of-jobless-claims-as-desantis-rejects-calls-for-generosity-1277282
+
 
 COVID-19 US growth rate: **113%**
 
 ## April 14, 2020
+- 36% of Homeless in Boston tested positive despite showing no symptoms  
+  https://www.wbur.org/commonhealth/2020/04/14/coronavirus-boston-homeless-testing
 - Boeing losing orders  
   https://www.wsj.com/articles/boeing-loses-plane-orders-as-coronavirus-hits-global-air-traffic-11586876400?mod=pls_whats_news_us_business_f
 - Fund managers in 5.9% cash, highest since 9/11 attacks  
   https://seekingalpha.com/news/3560447-fund-managers-hide-out-in-cash-baml-survey
+- IMF believes we will have greatest economic recession since Great Depression  
+  https://www.cnbc.com/2020/04/14/imf-global-economy-to-contract-by-3percent-due-to-coronavirus.html
+
 
 COVID-19 US growth rate: **100%**
 
@@ -46,9 +63,18 @@ COVID-19 US growth rate: **100%**
 
 COVID-19 US growth rate: **90%**
 
+## April 11, 2020
+- Canada subsidizes 75% of wages as 25% of workforce is laid off  
+  https://www.bloomberg.com/news/articles/2020-04-11/canada-passes-historic-wage-bill-to-stem-wave-of-job-losses?srnd=premium
+
 ## April 10, 2020
 - Google & Apple working to create a COVID-19 tracking app  
   https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/
+- John Hopkins estimates 70% of population needed for herd immunity  
+  https://www.jhsph.edu/covid-19/articles/achieving-herd-immunity-with-covid19.html
+- More than 1/2 of voters under 45 say they've lost their job, had hours reduced, or gotten furloughed  
+  https://www.newsweek.com/job-losses-economy-covid-19-poll-1497275
+
 
 COVID-19 US growth rate: **99%**
 
@@ -57,6 +83,10 @@ COVID-19 US growth rate: **99%**
   https://www.nytimes.com/reuters/2020/04/09/business/09reuters-health-coronavirus-usa-unemployment.html
 - Fed will aid small businesses with 2.3 Trillion dollars  
   https://www.bloomberg.com/news/articles/2020-04-09/fed-unleashes-fresh-steps-for-as-much-as-2-3-trillion-in-aid
+- 247,000 businesses in China went bankrupt in first two months of 2020  
+  https://supchina.com/2020/04/09/more-than-240000-chinese-companies-declare-bankruptcy-in-the-first-two-months-of-2020/
+- 3 million businesses apply for aid, are told to expect $15K, not $2M  
+  https://www.nytimes.com/2020/04/09/business/smallbusiness/small-business-disaster-loans-coronavirus.html
 
 COVID-19 US growth rate: **112%**
 
@@ -67,6 +97,8 @@ COVID-19 US growth rate: **112%**
 COVID-19 US growth rate: **89%**
 
 ## April 7, 2020
+- Los Alamos National Labs estimates an average R0 of 5.7  
+  https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article
 - Amazon suspends delivery service competing with UPS/Fedex  
   https://www.wsj.com/articles/amazon-to-suspend-delivery-service-that-competes-with-ups-fedex-11586296112
 - Coal plants are struggling this year  
@@ -149,6 +181,8 @@ COVID-19 US growth rate: **130%**
 ## March 24, 2020
 - 6 Trillion dollar relief package approved  
   https://www.politico.com/video/2020/03/24/kudlow-announces-6-trillion-economic-relief-package-for-coronavirus-070097
+- South Korean estimates 30% of cases are asymptomatic  
+  https://www.dw.com/en/up-to-30-of-coronavirus-cases-asymptomatic/a-52900988
 
 COVID-19 US growth rate: **67%**
 
@@ -208,6 +242,8 @@ COVID-19 US growth rate: **100%**
 COVID-19 US growth rate: **105%**
 
 ## March 13, 2020
+- Average incubation period is shown to be between 3-5 days  
+  https://www.worldometers.info/coronavirus/coronavirus-incubation-period/
 - T-mobile/Comcast give everyone free unlimited data
   https://arstechnica.com/tech-policy/2020/03/comcast-suspends-data-cap-for-60-days-opens-wi-fi-hotspots-to-everyone/
 
@@ -220,6 +256,10 @@ COVID-19 US growth rate: **135%**
   https://news.delta.com/delta-actions-address-financial-impact-covid-19 
 
 COVID-19 US growth rate: **119%**
+
+## March 10, 2020
+- Averages of roughly 10% of cases need hospitalization  
+  https://www.statnews.com/2020/03/10/simple-math-alarming-answers-covid-19/
 
 ## March 7, 2020
 - Elon Musk says Coronova virus panic is dumb  
