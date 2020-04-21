@@ -1,4 +1,5 @@
 # COVID-19 Timeline
+This is a rough timeline of COVID-19 events as they have unfolded from the perspective of someone in California. All numbers used to calculate growth rate are taken from https://covid19info.live/us/
 
 ## April 20, 2020
 - 24 Hour Fitness weighs bankruptcy  
@@ -17,6 +18,8 @@
 
 
 ## April 19, 2020
+COVID-19 US growth rate: **81%**
+
 - Strip mall owners only get 30-50% of their April rent  
   https://seekingalpha.com/news/3561878-rent-payments-dive-for-strip-mall-owners
 - Cartels are scrambling  
@@ -27,6 +30,8 @@
   https://www.reuters.com/article/us-health-coronavirus-washington/about-2500-protesters-converge-at-washington-state-capitol-against-stay-at-home-order-idUSKBN22201H
 
 ## April 18, 2020
+COVID-19 US growth rate: **111%**
+
 - Healthcare works protest for PPE  
   https://www.cnbc.com/2020/04/18/healthcare-workers-protest-for-vital-protection-equipment.html
 - Canada/US border closure extended 30 days  
@@ -67,6 +72,8 @@ COVID-19 US growth rate: **113%**
   https://www.wsjm.com/2020/04/16/midwestern-governors-form-partnership-to-reopen-regional-economy/
 
 ## April 15, 2020
+COVID-19 US growth rate: **115%**
+
 - Opendoor lays off 35% of employees  
   https://layoffs.fyi/tracker/
 - GoPro cuts 20% of workforce  
@@ -105,6 +112,8 @@ COVID-19 US growth rate: **90%**
   https://www.fastcompany.com/90489321/these-8-maps-show-the-massive-drop-in-smog-caused-by-the-coronavirus
 
 ## April 12, 2020
+COVID-19 US growth rate: **97%**
+
 - AMC talking with bankruptcy lawyers  
   https://movieweb.com/amc-theatres-bankruptcy-law-firm-weil-gotshal-manges/
 - Plant responsible for 4-5% of US pork shuts down indefinitely  
@@ -113,6 +122,8 @@ COVID-19 US growth rate: **90%**
   https://www.cnn.com/2020/04/10/china/africans-guangzhou-china-coronavirus-hnk-intl/index.html
 
 ## April 11, 2020
+COVID-19 US growth rate: **86%**
+
 - Canada subsidizes 75% of wages as 25% of workforce is laid off  
   https://www.bloomberg.com/news/articles/2020-04-11/canada-passes-historic-wage-bill-to-stem-wave-of-job-losses?srnd=premium
 - 5% of milk/dairy in the US are being destroyed  
@@ -177,6 +188,8 @@ COVID-19 US growth rate: **109%**
   https://www.nbcdfw.com/news/coronavirus/screening-checkpoints-start-at-texas-louisiana-border/2346778/
   
 ## April 6, 2020
+COVID-19 US growth rate: **121%**
+
 - 13,000 carpenters go on strike  
   https://patch.com/massachusetts/peabody/13-000-ma-carpenters-strike-over-coronavirus-concerns
 
@@ -213,6 +226,7 @@ COVID-19 US growth rate: **112%*
   https://www.wsj.com/articles/a-million-n95-masks-are-coming-from-chinaon-board-the-new-england-patriots-plane-11585821600
 
 ## April 1, 2020
+COVID-19 US growth rate: **107%**
 
 - Le Tote lays off 50% of employees  
   https://layoffs.fyi/tracker/
@@ -362,6 +376,8 @@ COVID-19 US growth rate: **119%**
   https://news.delta.com/delta-actions-address-financial-impact-covid-19 
 
 ## March 10, 2020
+COVID-19 US growth rate: **522%**
+
 - Averages of roughly 10% of cases need hospitalization  
   https://www.statnews.com/2020/03/10/simple-math-alarming-answers-covid-19/
 
@@ -378,20 +394,25 @@ COVID-19 US growth rate: **119%**
   https://seekingalpha.com/news/3548863-airlines-may-lose-up-to-113b-in-revenue-iata
 
 ## March 4, 2020
+COVID-19 US growth rate: **155%**
+
 - China skies clear as factories are shuttered  
   https://www.chicagotribune.com/nation-world/ct-nw-china-coronavirus-clear-skies-pictures-20200304-lff4gx2wlbb5bj7lp4fjbroo4q-story.html
 
 ## February 28, 2020
-COVID-19 US growth rate: **100%**
+COVID-19 US growth rate: **200%**
 
 - Bill Gates says “Coronavirus may be 'once-in-a-century pathogen we've been worried about'”
   https://www.cnbc.com/2020/02/28/bill-gates-says-coronavirus-may-be-once-in-a-century-pathogen.html
 
 ## February 17, 2020
+COVID-19 US growth rate: **100%**
 
 - African Swine Fever kills 25% of global domestic pigs, 60% of China's domestic pigs  
   https://www.aljazeera.com/news/2020/02/swine-fever-double-punch-countries-facing-covid-19-threat-200217050557166.html
 
 ## January 19, 2020
+COVID-19 US growth rate: **100%**
+
 - First case of COVID-19 in the US  
   https://www.nejm.org/doi/full/10.1056/NEJMoa2001191 
