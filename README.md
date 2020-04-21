@@ -2,7 +2,7 @@
 This is a rough timeline of COVID-19 events as they have unfolded from the perspective of someone in California. All numbers used to calculate growth rate are taken from https://covid19info.live/us/
 
 ## April 21, 2020
-- FDA approves firs in-home COVID-19 test
+- FDA approves firs in-home COVID-19 test  
   https://www.nytimes.com/2020/04/21/health/fda-in-home-test-coronavirus.html
 - A list of public companies that received the SBA loans  
   https://www.wsj.com/articles/these-are-the-public-companies-that-got-small-business-loans-11587493742?mod=pls_whats_news_us_business_f
