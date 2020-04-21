@@ -12,6 +12,9 @@
   https://www.bloomberg.com/news/articles/2020-04-18/denmark-extends-business-aid-to-increase-spending-by-15-billion
 - 100,000 seafarers are stuck at sea  
   https://www.maritime-executive.com/article/shipping-alliance-calls-for-solution-to-crew-change-shutdown
+- Facebook bans protests that defy Government 'Guidance'  
+  https://www.vice.com/en_us/article/5dmx85/facebook-will-ban-coronavirus-protests-that-defy-government-guidance-on-distancing
+
 
 ## April 19, 2020
 - Strip mall owners only get 30-50% of their April rent  
@@ -20,8 +23,17 @@
   https://apnews.com/4f0a4ca93cc2fee94d386efb13db31a0
 - The White House Has Erected a Blockade Stopping States and Hospitals From Getting Coronavirus PPE  
   https://nymag.com/intelligencer/2020/04/hospitals-face-a-white-house-blockade-for-coronavirus-ppe.html
-  
-  
+- 2,500 people protest in Washington state  
+  https://www.reuters.com/article/us-health-coronavirus-washington/about-2500-protesters-converge-at-washington-state-capitol-against-stay-at-home-order-idUSKBN22201H
+
+## April 18, 2020
+- Healthcare works protest for PPE  
+  https://www.cnbc.com/2020/04/18/healthcare-workers-protest-for-vital-protection-equipment.html
+- Canada/US border closure extended 30 days  
+  https://globalnews.ca/news/6836829/coronavirus-trudeau-april-18/
+- Fishing fleets are tied up, marine life has a chance to recover  
+  https://www.japantimes.co.jp/news/2020/04/18/world/science-health-world/fishing-coronavirus-marine-life/#.Xp4Wov1Kipo
+
 ## April 17, 2020
 COVID-19 US growth rate: **85%**
 
@@ -31,6 +43,8 @@ COVID-19 US growth rate: **85%**
   https://thehill.com/homenews/news/493391-california-antibody-testing-suggests-coronavirus-may-be-far-more-widespread
 - Trump announces $19B bailout for farmers  
   https://www.bloomberg.com/news/articles/2020-04-17/trump-announces-19-billion-aid-package-for-farmers
+- Texas plans to reopen/soften restrictions  
+  https://thehill.com/homenews/state-watch/493377-texas-to-begin-softening-covid-19-restrictions-next-week
 
 ## April 16, 2020
 COVID-19 US growth rate: **113%**
@@ -87,12 +101,16 @@ COVID-19 US growth rate: **90%**
   https://www.governor.wa.gov/news-media/washington-oregon-and-california-announce-western-states-pact
 - Cuomo announces multi-state regional effort for a coordinated reopening including NY, MA, NJ, CT, PA, DE, RI  
   https://twitter.com/NYGovCuomo/status/1249804122066432000
+- Massive drop in smog across the US during quarantine  
+  https://www.fastcompany.com/90489321/these-8-maps-show-the-massive-drop-in-smog-caused-by-the-coronavirus
 
 ## April 12, 2020
 - AMC talking with bankruptcy lawyers  
   https://movieweb.com/amc-theatres-bankruptcy-law-firm-weil-gotshal-manges/
 - Plant responsible for 4-5% of US pork shuts down indefinitely  
   https://thehill.com/policy/finance/agriculture/492427-top-pork-producer-shutting-sd-plant-indefinitely-amid-pandemic
+- Africans in Guangzhou, China are subject to rising xenophobia  
+  https://www.cnn.com/2020/04/10/china/africans-guangzhou-china-coronavirus-hnk-intl/index.html
 
 ## April 11, 2020
 - Canada subsidizes 75% of wages as 25% of workforce is laid off  
@@ -112,6 +130,8 @@ COVID-19 US growth rate: **99%**
   https://www.newsweek.com/job-losses-economy-covid-19-poll-1497275
 - Africa sees largest wave of locusts in 70 years  
   https://apnews.com/517bb5588fc94403f797a2045095dcac
+- Crisis/mental-health hotline has seen 891% spike in calls  
+  https://www.cnn.com/2020/04/10/us/disaster-hotline-call-increase-wellness-trnd/index.html
 
 ## April 9, 2020
 COVID-19 US growth rate: **112%**
@@ -139,6 +159,8 @@ COVID-19 US growth rate: **89%**
   https://layoffs.fyi/tracker/
 - FEMA is seizing medical supplies meant for states  
   https://www.cato.org/blog/federal-government-stealing-medical-supplies
+- Italy declares own port "unsafe"  
+  https://www.theguardian.com/world/2020/apr/08/italy-declares-own-ports-unsafe-to-stop-migrants-disembarking
 
 ## April 7, 2020
 COVID-19 US growth rate: **109%**
@@ -151,6 +173,8 @@ COVID-19 US growth rate: **109%**
   https://www.reuters.com/article/us-global-coal/nearly-half-of-global-coal-plants-will-be-unprofitable-this-year-carbon-tracker-idUSKBN21P3HM
 - Redfin lays off 7% of employees  
   https://layoffs.fyi/tracker/
+- Texas sets of Louisiana/Texas checkpoints to enforce 14-day quarantine  
+  https://www.nbcdfw.com/news/coronavirus/screening-checkpoints-start-at-texas-louisiana-border/2346778/
   
 ## April 6, 2020
 - 13,000 carpenters go on strike  
@@ -218,6 +242,8 @@ COVID-19 US growth rate: **121%**
   https://techcrunch.com/2020/03/30/wework-sells-off-social-network-meetup-to-alleycorp-and-other-investors/
 - ThumbTack lays off 30% of employees  
   https://layoffs.fyi/tracker/
+- Florida enforces quaranteed via checkpoints, with penalty of jail  
+  https://www.businessinsider.com/florida-coronavirus-checkpoints-stop-all-drivers-entering-state-2020-3
 
 ## March 29, 2020
 COVID-19 US growth rate: **86%**
@@ -232,6 +258,8 @@ COVID-19 US growth rate: **103%**
 
 - Trump invokes Defense Production Act  
   https://abcnews.go.com/Politics/government-response-updates-white-house-briefing-expected-amid/story?id=69706088
+- Wuhan residents riot as they are released from quarantine but told they can't travel other places  
+  https://www.the-sun.com/news/602805/coronavirus-riots-erupt-near-wuhan-as-locals-leave-quarantine-only-to-be-told-they-cant-travel-anywhere-else-in-china/
 
 ## March 26, 2020
 COVID-19 US growth rate: **133%**
@@ -348,6 +376,10 @@ COVID-19 US growth rate: **119%**
 
 - Travel restrictions are multiplying, airlines may lose up to $113B says International Air Transport Association  
   https://seekingalpha.com/news/3548863-airlines-may-lose-up-to-113b-in-revenue-iata
+
+## March 4, 2020
+- China skies clear as factories are shuttered  
+  https://www.chicagotribune.com/nation-world/ct-nw-china-coronavirus-clear-skies-pictures-20200304-lff4gx2wlbb5bj7lp4fjbroo4q-story.html
 
 ## February 28, 2020
 COVID-19 US growth rate: **100%**
