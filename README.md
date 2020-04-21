@@ -18,6 +18,8 @@
   https://seekingalpha.com/news/3561878-rent-payments-dive-for-strip-mall-owners
 - Cartels are scrambling  
   https://apnews.com/4f0a4ca93cc2fee94d386efb13db31a0
+- The White House Has Erected a Blockade Stopping States and Hospitals From Getting Coronavirus PPE  
+  https://nymag.com/intelligencer/2020/04/hospitals-face-a-white-house-blockade-for-coronavirus-ppe.html
   
   
 ## April 17, 2020
@@ -45,6 +47,10 @@ COVID-19 US growth rate: **113%**
   https://www.cnbc.com/2020/04/16/small-business-rescue-loan-program-hits-349-billion-limit-and-is-now-out-of-money.html
 - Florida pays on only 5 percent of jobless claims  
   https://www.politico.com/states/florida/story/2020/04/16/florida-pays-on-only-5-percent-of-jobless-claims-as-desantis-rejects-calls-for-generosity-1277282
+- China is now allowing US companies to ship medical supplies  
+  https://www.dailymail.co.uk/news/article-8227749/China-not-allowing-companies-ship-surgical-masks-coronavirus-test-kits-states.html
+- Midwestern governors form partnership for reopening  
+  https://www.wsjm.com/2020/04/16/midwestern-governors-form-partnership-to-reopen-regional-economy/
 
 ## April 15, 2020
 - Opendoor lays off 35% of employees  
@@ -77,6 +83,10 @@ COVID-19 US growth rate: **90%**
   https://fortune.com/2020/04/13/sba-paycheck-protection-program-loans-ppp-running-out-what-to-know/
 - Hokkaido, Japan gets 2nd wave of COVID-19 outbreak  
   https://www.npr.org/sections/coronavirus-live-updates/2020/04/13/832981899/emergency-declared-in-japanese-prefecture-hit-by-2nd-wave-of-coronavirus-infecti
+- Washington, Oregon, and California announce Western States Pact  
+  https://www.governor.wa.gov/news-media/washington-oregon-and-california-announce-western-states-pact
+- Cuomo announces multi-state regional effort for a coordinated reopening including NY, MA, NJ, CT, PA, DE, RI  
+  https://twitter.com/NYGovCuomo/status/1249804122066432000
 
 ## April 12, 2020
 - AMC talking with bankruptcy lawyers  
@@ -100,6 +110,8 @@ COVID-19 US growth rate: **99%**
   https://www.jhsph.edu/covid-19/articles/achieving-herd-immunity-with-covid19.html
 - More than 1/2 of voters under 45 say they've lost their job, had hours reduced, or gotten furloughed  
   https://www.newsweek.com/job-losses-economy-covid-19-poll-1497275
+- Africa sees largest wave of locusts in 70 years  
+  https://apnews.com/517bb5588fc94403f797a2045095dcac
 
 ## April 9, 2020
 COVID-19 US growth rate: **112%**
@@ -125,6 +137,8 @@ COVID-19 US growth rate: **89%**
   https://www.theguardian.com/world/2020/apr/08/coronavirus-putting-world-on-track-for-new-great-depression-says-who
 - Lever lays off 40% of employees  
   https://layoffs.fyi/tracker/
+- FEMA is seizing medical supplies meant for states  
+  https://www.cato.org/blog/federal-government-stealing-medical-supplies
 
 ## April 7, 2020
 COVID-19 US growth rate: **109%**
@@ -171,7 +185,8 @@ COVID-19 US growth rate: **112%*
   https://layoffs.fyi/tracker/
 - ClassPass lays off 22% of employees  
   https://layoffs.fyi/tracker/
-  
+- MA Governor uses private planes to get medical supplies  
+  https://www.wsj.com/articles/a-million-n95-masks-are-coming-from-chinaon-board-the-new-england-patriots-plane-11585821600
 
 ## April 1, 2020
 
@@ -225,6 +240,8 @@ COVID-19 US growth rate: **133%**
   https://www.nytimes.com/2020/03/26/health/usa-coronavirus-cases.html
 - Jobless claims pass 3 million, 5x'ing previous record  
   https://www.cnbc.com/2020/03/26/weekly-jobless-claims.html
+- UN warns of Global Food Shortage
+  https://www.theguardian.com/global-development/2020/mar/26/coronavirus-measures-could-cause-global-food-shortage-un-warns
 
 ## March 25, 2020
 COVID-19 US growth rate: **130%**
@@ -241,6 +258,8 @@ COVID-19 US growth rate: **67%**
   https://www.politico.com/video/2020/03/24/kudlow-announces-6-trillion-economic-relief-package-for-coronavirus-070097
 - South Korean estimates 30% of cases are asymptomatic  
   https://www.dw.com/en/up-to-30-of-coronavirus-cases-asymptomatic/a-52900988
+- Countries are starting to hoard food  
+  https://www.bloomberg.com/news/articles/2020-03-24/countries-are-starting-to-hoard-food-threatening-global-trade
 
 ## March 23, 2020
 COVID-19 US growth rate: **166%**
@@ -336,6 +355,10 @@ COVID-19 US growth rate: **100%**
 - Bill Gates says “Coronavirus may be 'once-in-a-century pathogen we've been worried about'”
   https://www.cnbc.com/2020/02/28/bill-gates-says-coronavirus-may-be-once-in-a-century-pathogen.html
 
+## February 17, 2020
+
+- African Swine Fever kills 25% of global domestic pigs, 60% of China's domestic pigs  
+  https://www.aljazeera.com/news/2020/02/swine-fever-double-punch-countries-facing-covid-19-threat-200217050557166.html
 
 ## January 19, 2020
 - First case of COVID-19 in the US  
