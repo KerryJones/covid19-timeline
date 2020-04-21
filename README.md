@@ -6,6 +6,8 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.nytimes.com/2020/04/21/health/fda-in-home-test-coronavirus.html
 - A list of public companies that received the SBA loans  
   https://www.wsj.com/articles/these-are-the-public-companies-that-got-small-business-loans-11587493742?mod=pls_whats_news_us_business_f
+- Senate approves plan to replenish SBA loans  
+  https://www.usatoday.com/story/news/politics/2020/04/21/coronavirus-congress-reaches-deal-replenish-small-business-program/5151695002/
 
 ## April 20, 2020
 - 24 Hour Fitness weighs bankruptcy  
