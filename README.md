@@ -8,6 +8,14 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.wsj.com/articles/these-are-the-public-companies-that-got-small-business-loans-11587493742?mod=pls_whats_news_us_business_f
 - Senate approves plan to replenish SBA loans  
   https://www.usatoday.com/story/news/politics/2020/04/21/coronavirus-congress-reaches-deal-replenish-small-business-program/5151695002/
+- Houzz lays off 10%, execs take paycut  
+  https://techcrunch.com/2020/04/21/houzz-lays-off-155-employees-cuts-executive-salaries/
+- Lending Club lays off 30%  
+  https://www.cnbc.com/2020/04/21/lendingclub-cuts-30percent-of-workforce-as-covid-19-dampens-demand-for-loans.html
+- Patreon lays off 13%  
+  https://techcrunch.com/2020/04/21/patreon-lays-off-13-of-workforce/
+- Casper lays off 21%, winds down European business  
+  https://www.fastcompany.com/90494129/breaking-casper-lays-off-78-corporate-employees-winds-down-europe-business
 
 ## April 20, 2020
 - 24 Hour Fitness weighs bankruptcy  
