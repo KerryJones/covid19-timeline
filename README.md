@@ -240,6 +240,8 @@ COVID-19 US growth rate: **112%*
   https://layoffs.fyi/tracker/
 - MA Governor uses private planes to get medical supplies  
   https://www.wsj.com/articles/a-million-n95-masks-are-coming-from-chinaon-board-the-new-england-patriots-plane-11585821600
+- Gold dealers report big shortages of small bars and coins  
+  https://www.texmetals.com/news/gold-dealers-report-big-shortages-of-small-bars-and-coins/
 
 ## April 1, 2020
 COVID-19 US growth rate: **107%**
