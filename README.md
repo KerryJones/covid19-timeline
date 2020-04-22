@@ -6,6 +6,8 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.wsj.com/articles/we-pulled-the-plug-as-oil-prices-plunge-drillers-in-the-gulf-shut-off-wells-11587558182?mod=pls_whats_news_us_business_f
 - Banks earned $10B on fees for handling $350B SBA loans
   https://www.npr.org/2020/04/22/840678984/small-business-rescue-earned-banks-10-billion-in-fees
+- Magic Leap lays off 50%  
+  https://techcrunch.com/2020/04/22/magic-leap-announces-layoffs-amid-covid-19-slowdown/
 
 ## April 21, 2020
 - FDA approves first in-home COVID-19 test  
