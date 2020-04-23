@@ -18,7 +18,7 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.npr.org/2020/04/22/840678984/small-business-rescue-earned-banks-10-billion-in-fees
 - Magic Leap lays off 50%  
   https://techcrunch.com/2020/04/22/magic-leap-announces-layoffs-amid-covid-19-slowdown/
-- Global food crisis looms 
+- Global food crisis looms  
   https://www.nytimes.com/2020/04/22/world/africa/coronavirus-hunger-crisis.html
 
 ## April 21, 2020
