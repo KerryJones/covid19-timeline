@@ -4,7 +4,8 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
 ## April 23, 2020
 - 4.4m more unemployed, totaling 33m, highest unemployment since 1934  
   https://fortune.com/2020/04/23/us-unemployment-rate-numbers-claims-this-week-total-job-losses-april-23-2020-benefits-claims/
-- 
+- Youtube bans COVID-19 videos contradicting WHO advice  
+  https://www.bbc.com/news/technology-52388586
 
 ## April 22, 2020
 - Drillers in Gulf of Mexico shut off wells  
