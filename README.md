@@ -8,6 +8,8 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.bbc.com/news/technology-52388586
 - Instacart plans to hire 250,000 more shoppers  
   https://techcrunch.com/2020/04/23/instacart-announces-new-covid-19-policies-and-plans-to-hire-250000-more-shoppers/
+- Preliminary results show 21% of NYC has antibodies  
+  https://www.6sqft.com/new-york-covid-antibody-test-preliminary-results/
 
 ## April 22, 2020
 - Drillers in Gulf of Mexico shut off wells  
