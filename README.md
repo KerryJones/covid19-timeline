@@ -183,7 +183,8 @@ COVID-19 US growth rate: **112%**
   https://layoffs.fyi/tracker/
 - Matterport lays off 34% of employees  
   https://layoffs.fyi/tracker/
-
+- Can see Himalayas for the first time in 30 years  
+  https://www.cnn.com/travel/article/himalayas-visible-lockdown-india-scli-intl/index.html
 
 ## April 8, 2020
 COVID-19 US growth rate: **89%**
