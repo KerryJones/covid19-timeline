@@ -217,6 +217,8 @@ COVID-19 US growth rate: **121%**
 
 - 13,000 carpenters go on strike  
   https://patch.com/massachusetts/peabody/13-000-ma-carpenters-strike-over-coronavirus-concerns
+- LA has cleanest air in the world  
+  https://losangeles.cbslocal.com/2020/04/06/la-has-the-cleanest-air-in-the-world-report-says/
 
 ## April 4, 2020
 COVID-19 US growth rate: **101%**
