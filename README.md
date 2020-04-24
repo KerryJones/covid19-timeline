@@ -12,6 +12,8 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.6sqft.com/new-york-covid-antibody-test-preliminary-results/
 - Remdesivir trial posted online premature was inconclusive  
   https://www.cnn.com/2020/04/23/health/remdesivir-trial-gilead-premature/index.html
+- Zenefits lays off 15% employees  
+  https://www.businessinsider.com/coronavirus-hr-startup-zenefits-lays-off-15-percent-staff-2020-4
 
 ## April 22, 2020
 - Drillers in Gulf of Mexico shut off wells  
