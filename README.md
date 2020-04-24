@@ -67,7 +67,8 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.maritime-executive.com/article/shipping-alliance-calls-for-solution-to-crew-change-shutdown
 - Facebook bans protests that defy Government 'Guidance'  
   https://www.vice.com/en_us/article/5dmx85/facebook-will-ban-coronavirus-protests-that-defy-government-guidance-on-distancing
-
+- COVID-19's ability to mutate has been vastly underestimated  
+  https://www.scmp.com/news/china/science/article/3080771/coronavirus-mutations-affect-deadliness-strains-chinese-study
 
 ## April 19, 2020
 COVID-19 US growth rate: **81%**
@@ -80,6 +81,8 @@ COVID-19 US growth rate: **81%**
   https://nymag.com/intelligencer/2020/04/hospitals-face-a-white-house-blockade-for-coronavirus-ppe.html
 - 2,500 people protest in Washington state  
   https://www.reuters.com/article/us-health-coronavirus-washington/about-2500-protesters-converge-at-washington-state-capitol-against-stay-at-home-order-idUSKBN22201H
+- Canada cuts steam-driven oil projects, risking permanent damage  
+  https://uk.reuters.com/article/global-oil-canada/canada-cuts-steam-driven-oil-projects-risking-permanent-damage-idUKL1N2C4050?rpc=401&
 
 ## April 18, 2020
 COVID-19 US growth rate: **111%**
@@ -213,6 +216,8 @@ COVID-19 US growth rate: **112%**
   https://layoffs.fyi/tracker/
 - Can see Himalayas for the first time in 30 years  
   https://www.cnn.com/travel/article/himalayas-visible-lockdown-india-scli-intl/index.html
+- Washington Prisoners riot over COVID-19  
+  https://www.wsj.com/articles/prisoners-riot-as-coronavirus-tensions-rise-11586469284
 
 ## April 8, 2020
 COVID-19 US growth rate: **89%**
