@@ -1,9 +1,15 @@
 # COVID-19 Timeline
 This is a rough timeline of COVID-19 events as they have unfolded from the perspective of someone in California. All numbers used to calculate growth rate are taken from https://covid19info.live/us/
 
+## April 24, 2020
+- Twitter blocks 5g conspiracy  
+  https://blog.twitter.com/en_us/topics/company/2020/covid-19.html
+
 ## April 23, 2020
 - 4.4m more unemployed, totaling 33m, highest unemployment since 1934  
   https://fortune.com/2020/04/23/us-unemployment-rate-numbers-claims-this-week-total-job-losses-april-23-2020-benefits-claims/
+- The House passes $484 Billion COVID-19 relief package  
+  https://thehill.com/homenews/house/494401-house-passes-484b-coronavirus-relief-package
 - Youtube bans COVID-19 videos contradicting WHO advice  
   https://www.bbc.com/news/technology-52388586
 - Instacart plans to hire 250,000 more shoppers  
@@ -14,6 +20,10 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.cnn.com/2020/04/23/health/remdesivir-trial-gilead-premature/index.html
 - Zenefits lays off 15% employees  
   https://www.businessinsider.com/coronavirus-hr-startup-zenefits-lays-off-15-percent-staff-2020-4
+- TD Ameritrade restricts oil futures  
+  https://www.reuters.com/article/global-oil-brokerages/td-ameritrade-restricts-customer-trading-in-crude-oil-futures-statement-idUSL2N2CB2MH
+- Google cutting marketing budget by 50%, hiring freeze  
+  https://www.cnbc.com/2020/04/23/google-to-cut-marketing-budgets-hiring-freeze-expected.html?__source=sharebar%7Ctwitter&par=sharebar
 
 ## April 22, 2020
 - Drillers in Gulf of Mexico shut off wells  
@@ -24,6 +34,8 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://techcrunch.com/2020/04/22/magic-leap-announces-layoffs-amid-covid-19-slowdown/
 - Global food crisis looms  
   https://www.nytimes.com/2020/04/22/world/africa/coronavirus-hunger-crisis.html
+- 18% of hog-slaughtering capacity offline, National Guard in Iowa to protect supplies  
+  https://web.archive.org/web/20200423020509/https://www.bloomberg.com/news/articles/2020-04-22/tyson-foods-to-indefinitely-suspend-waterloo-operations-k9bbgnr9
 
 ## April 21, 2020
 - FDA approves first in-home COVID-19 test  
