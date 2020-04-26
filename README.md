@@ -1,6 +1,10 @@
 # COVID-19 Timeline
 This is a rough timeline of COVID-19 events as they have unfolded from the perspective of someone in California. All numbers used to calculate growth rate are taken from https://covid19info.live/us/
 
+## April 26, 2020
+- 50% of San Francisco restuarants expected to close  
+  https://abc7news.com/society/coronavirus-impact-half-of-sf-restaurants-expected-to-close-industry-bracing-for-big-changes/6128018/
+
 ## April 24, 2020
 - Twitter blocks 5g conspiracy  
   https://blog.twitter.com/en_us/topics/company/2020/covid-19.html
@@ -93,6 +97,8 @@ COVID-19 US growth rate: **111%**
   https://globalnews.ca/news/6836829/coronavirus-trudeau-april-18/
 - Fishing fleets are tied up, marine life has a chance to recover  
   https://www.japantimes.co.jp/news/2020/04/18/world/science-health-world/fishing-coronavirus-marine-life/#.Xp4Wov1Kipo
+- 55% of LA county residents lost their jobs  
+  https://www.miragenews.com/coronavirus-survey-finds-that-only-45-of-la-county-residents-still-have-jobs/
 
 ## April 17, 2020
 COVID-19 US growth rate: **85%**
