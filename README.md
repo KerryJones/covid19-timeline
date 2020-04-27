@@ -2,19 +2,19 @@
 This is a rough timeline of COVID-19 events as they have unfolded from the perspective of someone in California. All numbers used to calculate growth rate are taken from https://covid19info.live/us/
 
 ## April 26, 2020
-COVID-19 US growth rate: **120%%**
+COVID-19 US growth rate: **120%**
 
 - 50% of San Francisco restuarants expected to close  
   https://abc7news.com/society/coronavirus-impact-half-of-sf-restaurants-expected-to-close-industry-bracing-for-big-changes/6128018/
 
 ## April 24, 2020
-COVID-19 US growth rate: **94%%**
+COVID-19 US growth rate: **94%**
 
 - Twitter blocks 5g conspiracy  
   https://blog.twitter.com/en_us/topics/company/2020/covid-19.html
 
 ## April 23, 2020
-COVID-19 US growth rate: **136%%**
+COVID-19 US growth rate: **136%**
 
 - 4.4m more unemployed, totaling 33m, highest unemployment since 1934  
   https://fortune.com/2020/04/23/us-unemployment-rate-numbers-claims-this-week-total-job-losses-april-23-2020-benefits-claims/
@@ -36,7 +36,7 @@ COVID-19 US growth rate: **136%%**
   https://www.cnbc.com/2020/04/23/google-to-cut-marketing-budgets-hiring-freeze-expected.html?__source=sharebar%7Ctwitter&par=sharebar
 
 ## April 22, 2020
-COVID-19 US growth rate: **103%%**
+COVID-19 US growth rate: **103%**
 
 - Drillers in Gulf of Mexico shut off wells  
   https://www.wsj.com/articles/we-pulled-the-plug-as-oil-prices-plunge-drillers-in-the-gulf-shut-off-wells-11587558182?mod=pls_whats_news_us_business_f
@@ -50,7 +50,7 @@ COVID-19 US growth rate: **103%%**
   https://web.archive.org/web/20200423020509/https://www.bloomberg.com/news/articles/2020-04-22/tyson-foods-to-indefinitely-suspend-waterloo-operations-k9bbgnr9
 
 ## April 21, 2020
-COVID-19 US growth rate: **96%%**
+COVID-19 US growth rate: **96%**
 
 - Georgia & South Carolina start to relax stay-at-home orders despite federal dissent  
   https://www.nytimes.com/2020/04/21/us/coronavirus-georgia-south-carolina.html
@@ -70,7 +70,7 @@ COVID-19 US growth rate: **96%%**
   https://www.fastcompany.com/90494129/breaking-casper-lays-off-78-corporate-employees-winds-down-europe-business
 
 ## April 20, 2020
-COVID-19 US growth rate: **103%%**
+COVID-19 US growth rate: **103%**
 
 - 24 Hour Fitness weighs bankruptcy  
   https://seekingalpha.com/news/3561870-gym-chain-24-hour-fitness-weighs-bankruptcy
