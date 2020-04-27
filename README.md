@@ -13,6 +13,8 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
     - Tennessee allowed restaurants and retailers to reopen at 50% capacity Monday  
     - Montana reopens stores and restaurants if certain restrictions are maintained  
     https://www.cnn.com/2020/04/27/us/coronavirus-reopenings/index.html
+- Ohio partially reopening  
+  https://www.wsj.com/articles/coronavirus-latest-news-04-27-2020-11587982265
 
 ## April 26, 2020
 COVID-19 US growth rate: **120%**
