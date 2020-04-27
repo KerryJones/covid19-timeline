@@ -9,6 +9,10 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.sfchronicle.com/bayarea/article/Bay-Area-counties-extend-coronavirus-stay-at-home-15229291.php
 - New York cancels Presidential Primary vote  
   https://www.vox.com/2020/4/27/21238497/new-york-cancels-june-23-presidential-primary-coronavirus
+- More states reopening  
+    - Tennessee allowed restaurants and retailers to reopen at 50% capacity Monday  
+    - Montana reopens stores and restaurants if certain restrictions are maintained  
+    https://www.cnn.com/2020/04/27/us/coronavirus-reopenings/index.html
 
 ## April 26, 2020
 COVID-19 US growth rate: **120%**
