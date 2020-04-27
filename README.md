@@ -38,7 +38,7 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://techcrunch.com/2020/04/22/magic-leap-announces-layoffs-amid-covid-19-slowdown/
 - Global food crisis looms  
   https://www.nytimes.com/2020/04/22/world/africa/coronavirus-hunger-crisis.html
-- 18% of hog-slaughtering capacity offline, National Guard in Iowa to protect supplies  
+- 25% of hog-slaughtering capacity offline, National Guard in Iowa to protect supplies  
   https://web.archive.org/web/20200423020509/https://www.bloomberg.com/news/articles/2020-04-22/tyson-foods-to-indefinitely-suspend-waterloo-operations-k9bbgnr9
 
 ## April 21, 2020
