@@ -1,17 +1,41 @@
 # COVID-19 Timeline
 This is a rough timeline of COVID-19 events as they have unfolded from the perspective of someone in California. All numbers used to calculate growth rate are taken from https://covid19info.live/us/
 
+## April 27, 2020
+
+- New Jersey starts to plan re-opening in weeks, not months  
+  https://www.nytimes.com/2020/04/27/nyregion/nj-coronavirus-reopen-plan.html
+- Bay Area extends stay-at-home orders thorugh May  
+  https://www.sfchronicle.com/bayarea/article/Bay-Area-counties-extend-coronavirus-stay-at-home-15229291.php
+- New York cancels Presidential Primary vote  
+  https://www.vox.com/2020/4/27/21238497/new-york-cancels-june-23-presidential-primary-coronavirus
+
 ## April 26, 2020
 COVID-19 US growth rate: **120%**
 
 - 50% of San Francisco restuarants expected to close  
-  https://abc7news.com/society/coronavirus-impact-half-of-sf-restaurants-expected-to-close-industry-bracing-for-big-changes/6128018/
+  https://abc7news.com/society/coronavirus-impact-half-of-sf-restaurants-expected-to-close-industry-bracing-for-big-changes/6128018/  
+- Many states are planning reopenings  
+  - Hawaii opens beaches  
+  - Texas allows curbside pickup for retail stores  
+  - Michigan allows companies like landscaping, bike repair, and nurseries to open   
+  - Alaska allows salons and restaurants to open, but keeping under 25% of max capacity  
+  - Georgia allows some businesses to reopen  
+  - Oklahoma allows salons, barbershops, spas, & pet groomers to open  
+  - Florida set to reopen  
+  - Colorado set to open but urged to "stay at home if possible"  
+  https://www.cnn.com/2020/04/26/health/us-coronavirus-sunday/index.html
 
 ## April 24, 2020
 COVID-19 US growth rate: **94%**
 
 - Twitter blocks 5g conspiracy  
   https://blog.twitter.com/en_us/topics/company/2020/covid-19.html
+- 20% of national pork production has gone offline  
+  https://www.wsj.com/articles/pork-industry-usda-discuss-euthanizing-hogs-after-coronavirus-closes-plants-11588015611
+- Michigan extends stay-at-home until May 15, relaxes restrictions (such as Golf and Outdoor Boating)  
+  https://www.cnn.com/2020/04/24/politics/gretchen-whitmer-michigan-stay-at-home/index.html
+
 
 ## April 23, 2020
 COVID-19 US growth rate: **136%**
