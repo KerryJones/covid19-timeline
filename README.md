@@ -2,14 +2,20 @@
 This is a rough timeline of COVID-19 events as they have unfolded from the perspective of someone in California. All numbers used to calculate growth rate are taken from https://covid19info.live/us/
 
 ## April 26, 2020
+COVID-19 US growth rate: **120%%**
+
 - 50% of San Francisco restuarants expected to close  
   https://abc7news.com/society/coronavirus-impact-half-of-sf-restaurants-expected-to-close-industry-bracing-for-big-changes/6128018/
 
 ## April 24, 2020
+COVID-19 US growth rate: **94%%**
+
 - Twitter blocks 5g conspiracy  
   https://blog.twitter.com/en_us/topics/company/2020/covid-19.html
 
 ## April 23, 2020
+COVID-19 US growth rate: **136%%**
+
 - 4.4m more unemployed, totaling 33m, highest unemployment since 1934  
   https://fortune.com/2020/04/23/us-unemployment-rate-numbers-claims-this-week-total-job-losses-april-23-2020-benefits-claims/
 - The House passes $484 Billion COVID-19 relief package  
@@ -30,6 +36,8 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.cnbc.com/2020/04/23/google-to-cut-marketing-budgets-hiring-freeze-expected.html?__source=sharebar%7Ctwitter&par=sharebar
 
 ## April 22, 2020
+COVID-19 US growth rate: **103%%**
+
 - Drillers in Gulf of Mexico shut off wells  
   https://www.wsj.com/articles/we-pulled-the-plug-as-oil-prices-plunge-drillers-in-the-gulf-shut-off-wells-11587558182?mod=pls_whats_news_us_business_f
 - Banks earned $10B on fees for handling $350B SBA loans  
@@ -42,6 +50,10 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://web.archive.org/web/20200423020509/https://www.bloomberg.com/news/articles/2020-04-22/tyson-foods-to-indefinitely-suspend-waterloo-operations-k9bbgnr9
 
 ## April 21, 2020
+COVID-19 US growth rate: **96%%**
+
+- Georgia & South Carolina start to relax stay-at-home orders despite federal dissent  
+  https://www.nytimes.com/2020/04/21/us/coronavirus-georgia-south-carolina.html
 - FDA approves first in-home COVID-19 test  
   https://www.nytimes.com/2020/04/21/health/fda-in-home-test-coronavirus.html
 - A list of public companies that received the SBA loans  
@@ -58,6 +70,8 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.fastcompany.com/90494129/breaking-casper-lays-off-78-corporate-employees-winds-down-europe-business
 
 ## April 20, 2020
+COVID-19 US growth rate: **103%%**
+
 - 24 Hour Fitness weighs bankruptcy  
   https://seekingalpha.com/news/3561870-gym-chain-24-hour-fitness-weighs-bankruptcy
 - United Airlines loses 2.1b dollars  
@@ -370,7 +384,9 @@ COVID-19 US growth rate: **67%**
   https://www.dw.com/en/up-to-30-of-coronavirus-cases-asymptomatic/a-52900988
 - Countries are starting to hoard food  
   https://www.bloomberg.com/news/articles/2020-03-24/countries-are-starting-to-hoard-food-threatening-global-trade
-
+- Olympics are cancelled  
+  https://www.nbcnews.com/news/world/tokyo-2020-olympics-postponed-over-coronavirus-concerns-n1165046
+  
 ## March 23, 2020
 COVID-19 US growth rate: **166%**
 
