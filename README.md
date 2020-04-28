@@ -1,6 +1,12 @@
 # COVID-19 Timeline
 This is a rough timeline of COVID-19 events as they have unfolded from the perspective of someone in California. All numbers used to calculate growth rate are taken from https://covid19info.live/us/
 
+## April 28, 2020
+- Over 200,000 H-1B Workers could lose legal status by June  
+  https://www.bloomberg.com/news/articles/2020-04-28/200-000-h-1b-workers-could-lose-right-to-work-live-in-the-u-s
+- Harvard unclear on Fall semester, may do online classes  
+  https://www.wsj.com/articles/harvard-to-have-a-fall-semester-but-details-unclear-11588032333?mod=hp_lista_pos3
+
 ## April 27, 2020
 
 - New Jersey starts to plan re-opening in weeks, not months  
@@ -15,6 +21,14 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
     https://www.cnn.com/2020/04/27/us/coronavirus-reopenings/index.html
 - Ohio partially reopening  
   https://www.wsj.com/articles/coronavirus-latest-news-04-27-2020-11587982265
+- Supreme Court rules Government will pay insurers under Affordable Care Act  
+https://www.wsj.com/articles/supreme-court-rules-government-must-pay-insurers-under-affordable-care-act-program-11587997064?mod=hp_lead_pos3
+- CVS, Walgreens, Riteaid, Walmart, & Kroger are expanding testing as states begin to reopen  
+  https://www.cnbc.com/2020/04/27/coronavirus-cvs-health-to-announce-expanded-testing-at-white-house-event.html
+- Detroit automakers target May 18th for reopening  
+  https://www.wsj.com/articles/detroit-car-makers-target-may-18-u-s-restart-date-11588026203
+- UPS to start doing drone deliveries in May  
+  https://news.bloomberglaw.com/coronavirus/ups-to-fly-medications-by-drone-to-florida-retirement-community
 
 ## April 26, 2020
 COVID-19 US growth rate: **120%**
