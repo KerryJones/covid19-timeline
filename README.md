@@ -64,6 +64,8 @@ COVID-19 US growth rate: **136%**
   https://www.reuters.com/article/global-oil-brokerages/td-ameritrade-restricts-customer-trading-in-crude-oil-futures-statement-idUSL2N2CB2MH
 - Google cutting marketing budget by 50%, hiring freeze  
   https://www.cnbc.com/2020/04/23/google-to-cut-marketing-budgets-hiring-freeze-expected.html?__source=sharebar%7Ctwitter&par=sharebar
+- List of colleges reopening in the fall  
+  https://www.chronicle.com/article/Here-s-a-List-of-Colleges-/248626?cid=wcontentgrid_hp_1b
 
 ## April 22, 2020
 COVID-19 US growth rate: **103%**
