@@ -6,6 +6,14 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.bloomberg.com/news/articles/2020-04-28/200-000-h-1b-workers-could-lose-right-to-work-live-in-the-u-s
 - Harvard unclear on Fall semester, may do online classes  
   https://www.wsj.com/articles/harvard-to-have-a-fall-semester-but-details-unclear-11588032333?mod=hp_lista_pos3
+- H&M closing 8 stores in Italy  
+  https://www.reuters.com/article/us-h-m-italy-shops/hm-set-to-permanently-close-eight-shops-in-italy-idUSKCN22A2O6?feedType=RSS&feedName=businessNews
+- British Airways plans on laying off 25% of workforce  
+  https://www.theguardian.com/business/2020/apr/28/british-airways-plans-to-make-up-to-12000-staff-redundant
+- JetBlue first airline to require passenger masks  
+  https://www.nytimes.com/2020/04/28/business/jetblue-face-masks-coronavirus.html
+- New York to re-open with "regional control room"  
+  https://seekingalpha.com/news/3565412-new-york-re-open-will-require-regional-control-room-cuomo-says?utm_source=feed_news_all&amp&utm_medium=referral
 
 ## April 27, 2020
 
