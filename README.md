@@ -1,6 +1,12 @@
 # COVID-19 Timeline
 This is a rough timeline of COVID-19 events as they have unfolded from the perspective of someone in California. All numbers used to calculate growth rate are taken from https://covid19info.live/us/
 
+## April 29, 2020
+- Boeing lays off 16,000 (10%) of workforce  
+  https://www.nytimes.com/2020/04/29/business/boeing-layoffs-coronavirus.html
+- Lyft lays off 982 (17%) of workforce  
+  https://www.cnbc.com/2020/04/29/lyft-lays-off-17percent-of-workforce-furloughs-hundreds-more.html
+
 ## April 28, 2020
 - Over 200,000 H-1B Workers could lose legal status by June  
   https://www.bloomberg.com/news/articles/2020-04-28/200-000-h-1b-workers-could-lose-right-to-work-live-in-the-u-s
@@ -14,6 +20,10 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.nytimes.com/2020/04/28/business/jetblue-face-masks-coronavirus.html
 - New York to re-open with "regional control room"  
   https://seekingalpha.com/news/3565412-new-york-re-open-will-require-regional-control-room-cuomo-says?utm_source=feed_news_all&amp&utm_medium=referral
+- TripAdvisor lays off 900 (25%) of workforce  
+  https://www.cnbc.com/2020/04/28/tripadvisor-expected-to-slash-staff-as-the-coronavirus-stalls-travel.html
+- Trump takes executive action to keep meat-processing plants open  
+  https://www.wsj.com/articles/trump-to-take-executive-action-to-keep-meat-processing-plants-open-11588099443
 
 ## April 27, 2020
 
