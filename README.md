@@ -1,11 +1,25 @@
 # COVID-19 Timeline
 This is a rough timeline of COVID-19 events as they have unfolded from the perspective of someone in California. All numbers used to calculate growth rate are taken from https://covid19info.live/us/
 
+## May 3, 2020
+- J. Crew files for Chapter 11 bankruptcy  
+  https://www.nytimes.com/2020/05/03/business/j-crew-bankruptcy-coronavirus.html
+
+## April 30, 2020
+- Lyft lays off 17%  
+  https://layoffs.fyi/2020/04/30/lyft-laid-off-982-employees/
+- Amazon locks down internal communications amid organizing efforts (around COVID-19 care)  
+  https://arstechnica.com/tech-policy/2020/04/amazon-locks-down-internal-employee-communications-amid-organizing-efforts/
+
 ## April 29, 2020
 - Boeing lays off 16,000 (10%) of workforce  
   https://www.nytimes.com/2020/04/29/business/boeing-layoffs-coronavirus.html
 - Lyft lays off 982 (17%) of workforce  
   https://www.cnbc.com/2020/04/29/lyft-lays-off-17percent-of-workforce-furloughs-hundreds-more.html
+- WeWork lays off 300  
+  https://news.crunchbase.com/news/wework-lays-off-staff-as-part-of-a-realignment/
+- Kayak / Open Table lays off 8%  
+  https://skift.com/2020/04/29/kayak-and-opentable-layoffs-and-furloughs-impact-400-employees/
 
 ## April 28, 2020
 - Over 200,000 H-1B Workers could lose legal status by June  
@@ -24,6 +38,8 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://www.cnbc.com/2020/04/28/tripadvisor-expected-to-slash-staff-as-the-coronavirus-stalls-travel.html
 - Trump takes executive action to keep meat-processing plants open  
   https://www.wsj.com/articles/trump-to-take-executive-action-to-keep-meat-processing-plants-open-11588099443
+- Lime scooters lays off 13%  
+  https://layoffs.fyi/2020/05/04/lime-laid-off-80-employees/
 
 ## April 27, 2020
 
