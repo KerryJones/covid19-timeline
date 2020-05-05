@@ -1,6 +1,10 @@
 # COVID-19 Timeline
 This is a rough timeline of COVID-19 events as they have unfolded from the perspective of someone in California. All numbers used to calculate growth rate are taken from https://covid19info.live/us/
 
+## May 5, 2020
+- AirBnB lays off 25%  
+  https://techcrunch.com/2020/05/05/citing-revenue-declines-airbnb-cuts-1900-jobs-or-around-25-of-its-global-workforce/
+
 ## May 4, 2020
 - California enters stage 2 for reopening  
   https://www.gov.ca.gov/2020/05/04/governor-newsom-provides-update-on-californias-progress-toward-stage-2-reopening/
