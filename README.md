@@ -1,6 +1,10 @@
 # COVID-19 Timeline
 This is a rough timeline of COVID-19 events as they have unfolded from the perspective of someone in California. All numbers used to calculate growth rate are taken from https://covid19info.live/us/
 
+## May 4, 2020
+- California enters stage 2 for reopening  
+  https://www.gov.ca.gov/2020/05/04/governor-newsom-provides-update-on-californias-progress-toward-stage-2-reopening/
+
 ## May 3, 2020
 - J. Crew files for Chapter 11 bankruptcy  
   https://www.nytimes.com/2020/05/03/business/j-crew-bankruptcy-coronavirus.html
