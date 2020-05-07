@@ -1,9 +1,29 @@
 # COVID-19 Timeline
 This is a rough timeline of COVID-19 events as they have unfolded from the perspective of someone in California. All numbers used to calculate growth rate are taken from https://covid19info.live/us/
 
+## May 7, 2020
+- Google ends plans for smart city in Toronto  
+  https://www.bbc.com/news/technology-52572362
+- Zoom acquires Keybase  
+  https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/
+- Jobless claims jump 3.2m  
+  https://www.marketwatch.com/story/jobless-claims-jump-32-million-in-early-may-but-historic-rate-of-layoffs-is-slowing-2020-05-07?mod=article_inline
+- Neiman Marcus files for Chapter 11 bankruptcy  
+  https://www.cbsnews.com/news/neiman-marcus-bankruptcy-chapter-11-filing/
+
+## May 6, 2020
+- Uber lays off 14%  
+  https://www.bloomberg.com/news/articles/2020-05-06/uber-is-reducing-workforce-by-14-and-signals-more-cuts-to-come
+
 ## May 5, 2020
+- New Zealand PM says borders will not be open for a long time  
+  https://www.bbc.com/news/world-asia-52540733
 - AirBnB lays off 25%  
   https://techcrunch.com/2020/05/05/citing-revenue-declines-airbnb-cuts-1900-jobs-or-around-25-of-its-global-workforce/
+- Juul lays off 30%  
+  https://www.wsj.com/articles/e-cigarette-maker-juul-is-leaving-san-francisco-for-washington-d-c-11588640401
+- Stack Overflow lays off 15%  
+  https://www.businessinsider.com/stack-overflow-reduces-workforce-furloughs-layoffs-2020-5
 
 ## May 4, 2020
 - California enters stage 2 for reopening  
@@ -18,7 +38,9 @@ This is a rough timeline of COVID-19 events as they have unfolded from the persp
   https://layoffs.fyi/2020/04/30/lyft-laid-off-982-employees/
 - Amazon locks down internal communications amid organizing efforts (around COVID-19 care)  
   https://arstechnica.com/tech-policy/2020/04/amazon-locks-down-internal-employee-communications-amid-organizing-efforts/
-
+- 74% Of Startups Have Trimmed Staff, 65% Have Less Than 6 Months Of Cash  
+  https://www.forbes.com/sites/johnkoetsier/2020/04/30/74-of-startups-have-trimmed-staff-65-have-less-than-6-months-of-cash/#360748ad6628
+  
 ## April 29, 2020
 - Boeing lays off 16,000 (10%) of workforce  
   https://www.nytimes.com/2020/04/29/business/boeing-layoffs-coronavirus.html
